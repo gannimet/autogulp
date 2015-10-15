@@ -1,0 +1,19 @@
+{
+  "name": "autogulp",
+  "version": "0.0.0",
+  "authors": [
+    "Richard Wotzlaw <richard.wotzlaw@kiwigrid.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "jquery": "~2.1.4"
+  }
+}
